@@ -1,0 +1,8 @@
+room 1 occupied by CHATHURA MILLAVITHANACHCHI and 3 guests are in this room
+room 2 is empty
+room 3 is empty
+room 4 is empty
+room 5 is empty
+room 6 is empty
+room 7 is empty
+room 8 is empty
